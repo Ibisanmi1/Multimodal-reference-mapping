@@ -1,7 +1,6 @@
 ---
 Title : " Multimodal reference mapping genomics data Analysis " 
 author: Tope A Ibisanmi
-Pipeline: Seurat
 date: 26th  june to 8th july, 2023
 output: 
   html_document: 
